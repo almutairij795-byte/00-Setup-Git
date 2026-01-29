@@ -3,7 +3,14 @@
 
 # $CHALLENGIFY_BEGIN
 def my_name_is():
- 
-    pass
+    return "almutairij795-byte"
+
+def my_age_is():
+    return 21
+
+
+
+
 
 # $CHALLENGIFY_END
+ 
